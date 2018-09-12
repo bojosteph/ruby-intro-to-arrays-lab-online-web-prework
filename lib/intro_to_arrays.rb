@@ -31,7 +31,7 @@
    (first_country) = @south_east_asia.first
  end
  
- def last_element_with_array_methods
+ def last_element_with_array_methods(last_country)
     @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
     @south_east_asia.last
  
